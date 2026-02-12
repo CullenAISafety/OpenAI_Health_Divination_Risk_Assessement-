@@ -1,5 +1,3 @@
-# OpenAI_Health_Divination_Risk_Assessement-
-OpenAI Health Divination Risk Assessement 
 Symbolic Prompt Reinforcement in Large Language Models Behavioral Alignment Evaluation of Health-Adjacent Interpretive Interactions
 
 Author: Cullen E. Mathews Independent AI Safety & Evaluation Research
